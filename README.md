@@ -1,7 +1,7 @@
 
 ---
 
-UPDATED code for TF2, originally based on the source code for the paper:
+Model updated to TF2, originally based on the code submitted for the paper:
 
 **A Deep Neural Netork model of the Superior Colliculus in emotion recognition.**
 
