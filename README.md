@@ -1,7 +1,7 @@
 
 ---
 
-Model updated to TF2, originally based on the code submitted for the paper:
+Model updated to TensorFlow 2, originally based on the code submitted for the paper:
 
 **A Deep Neural Netork model of the Superior Colliculus in emotion recognition.**
 
@@ -9,10 +9,16 @@ Model updated to TF2, originally based on the code submitted for the paper:
 
 University of Turin, Italy
 
+
+> Méndez, Carlos Andrés, Alessia Celeghin, Matteo Diano, Davide Orsenigo, Brian Ocak, and Marco Tamietto. 
+"A deep neural network model of the primate superior colliculus for emotion recognition." 
+Philosophical Transactions of the Royal Society B 377, no. 1863 (2022): 20210512.
+
+
 ---
 *Files:*
 
-Main_Model.py = Principal script of the model, needs Tensorflow 1.13 and Keras 2.22
+Main_Model.py = Principal script of the model, needs Tensorflow 2.x and Keras 2.22
 
 evaluate_model = Script for running a variety of tests on the trained model
 
